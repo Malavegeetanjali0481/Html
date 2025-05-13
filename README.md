@@ -3,8 +3,8 @@ Basics of Html
 ## HTML
 ### Text Formating
  link to demo : - [Live](https://malavegeetanjali0481.github.io/Html/HTML/01text%20formating.html)
- ### Paragraphs
- link to demo : - [Live]()
+ ### Headings
+ link to demo : - [Live](https://malavegeetanjali0481.github.io/Html/HTML/02intro(Headings).html)
 ### Div
  link to demo : - [Live]()
  ###  Tables
