@@ -1,8 +1,8 @@
 # Html
 Basics of Html
 ## HTML
-### Lists
- link to demo : - [Live]()
+### Text Formating
+ link to demo : - [Live](https://malavegeetanjali0481.github.io/Html/HTML/01text%20formating.html)
  ### Paragraphs
  link to demo : - [Live]()
 ### Div
