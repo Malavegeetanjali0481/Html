@@ -17,11 +17,11 @@ link to demo : - [live](https://malavegeetanjali0481.github.io/Html/HTML/05index
 link to demo : - [live](https://malavegeetanjali0481.github.io/Html/HTML/index(portfoli).html)
  ## Technologies used
 
-- HTMLh
+- HTML
   
  ## Authors
 
 - [@MalaveGeetanjali](https://github.com/Malavegeetanjali0481)
   ## 🔗 Links
 
-[![linkedin](https://www.linkedin.com/in/malave-geetanjali-a57207343)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malave-geetanjali-a57207343)
