@@ -17,7 +17,7 @@ link to demo : - [live](https://malavegeetanjali0481.github.io/Html/HTML/05index
 link to demo : - [live](https://malavegeetanjali0481.github.io/Html/HTML/index(portfoli).html)
  ## Technologies used
 
-- HTML
+- HTMLh
   
  ## Authors
 
