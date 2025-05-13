@@ -21,7 +21,7 @@ link to demo : - [live](https://malavegeetanjali0481.github.io/Html/HTML/index(p
   
  ## Authors
 
-- [@NaveenMalave]()
+- [@MalaveGeetanjali](https://github.com/Malavegeetanjali0481)
   ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navanishwara-rao-malave-4ab6ba247)
