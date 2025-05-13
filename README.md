@@ -24,4 +24,4 @@ link to demo : - [live](https://malavegeetanjali0481.github.io/Html/HTML/index(p
 - [@MalaveGeetanjali](https://github.com/Malavegeetanjali0481)
   ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navanishwara-rao-malave-4ab6ba247)
+[![linkedin](https://www.linkedin.com/in/malave-geetanjali-a57207343)
